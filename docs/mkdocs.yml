@@ -1,4 +1,5 @@
 site_name: RTD Test Docs
+docs_dir: .
 
 nav:
   - Home: index.md
