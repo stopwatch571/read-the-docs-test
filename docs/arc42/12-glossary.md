@@ -1,6 +1,6 @@
 # 12. Glossary
 
-!!! note "arc42 — Section 12"
+!!! note "arc42 : Section 12"
     Defines domain-specific terms.
 
 | Term        | Definition  |

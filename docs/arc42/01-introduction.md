@@ -1,6 +1,6 @@
 # 1. Introduction and Goals
 
-!!! note "arc42 — Section 1"
+!!! note "arc42 : Section 1"
     Describes the requirements and goals of the system.
 
 ## Overview
