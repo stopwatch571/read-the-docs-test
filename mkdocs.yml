@@ -1,8 +1,10 @@
 site_name: RTD Test Docs
+
 nav:
   - Home: index.md
   - Getting Started: getting-started.md
   - Architecture (arc42):
+    - arc42/index.md
     - "1. Introduction": arc42/01-introduction.md
     - "2. Constraints": arc42/02-constraints.md
     - "3. Context": arc42/03-context.md
@@ -15,7 +17,19 @@ nav:
     - "10. Quality": arc42/10-quality.md
     - "11. Risks": arc42/11-risks.md
     - "12. Glossary": arc42/12-glossary.md
+
 theme:
   name: material
   features:
+    - navigation.indexes
+    - navigation.top
+    - navigation.tracking
     - navigation.sections
+    - navigation.footer
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - pymdownx.superfences
