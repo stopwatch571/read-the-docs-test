@@ -1,5 +1,8 @@
-site_name: My Documentation
+site_name: RTD Test Docs
 nav:
   - Home: index.md
+  - Getting Started: getting-started.md
+  - API Reference: api-reference.md
+  - Contributing: contributing.md
 theme:
   name: material
