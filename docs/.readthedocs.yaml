@@ -9,7 +9,7 @@ build:
     python: "3.13"
 
 mkdocs:
-  configuration: docs/mkdocs.yml
+  configuration: docs/.mkdocs.yaml
 
 # Optionally, but recommended,
 # declare the Python requirements required to build your documentation
